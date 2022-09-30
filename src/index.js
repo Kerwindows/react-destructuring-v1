@@ -23,23 +23,25 @@ const {
 } = tesla;
 
 ReactDOM.render(
+  <>
     <h1>Learning Destructuring</h1>
-  <table className="table">
-    <tr>
-      <th>Model</th>
-      <th>Top Speed</th>
-      <th>Popular Colour</th>
-    </tr>
-    <tr>
-      <td>{tesla.model}</td>
-      <td>{teslaTopSpeed}</td>
-      <td>{teslaTopColour2}</td>
-    </tr>
-    <tr>
-      <td>{honda.model}</td>
-      <td>{hondaTopSpeed}</td>
-      <td>{hondaTopColour}</td>
-    </tr>
-  </table>,
+    <table className="table">
+      <tr>
+        <th>Model</th>
+        <th>Top Speed</th>
+        <th>Popular Colour</th>
+      </tr>
+      <tr>
+        <td>{tesla.model}</td>
+        <td>{teslaTopSpeed}</td>
+        <td>{teslaTopColour2}</td>
+      </tr>
+      <tr>
+        <td>{honda.model}</td>
+        <td>{hondaTopSpeed}</td>
+        <td>{hondaTopColour}</td>
+      </tr>
+    </table>
+  </>,
   document.getElementById("root")
 );
