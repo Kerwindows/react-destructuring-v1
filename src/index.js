@@ -2,14 +2,19 @@ import React from "react";
 import ReactDOM from "react-dom";
 import cars from "./vehicles";
 
+//destructure array called cars
 const [honda, tesla] = cars;
 
+//destructuring objects
 const {
   speedStats: { topSpeed: hondaTopSpeed },
 } = honda;
+
 const {
   speedStats: { topSpeed: teslaTopSpeed },
 } = tesla;
+
+//destructuring an array inside an object
 const {
   coloursByPopularity: [hondaTopColour2, hondaTopColour],
 } = honda;
@@ -18,10 +23,12 @@ const {
 } = tesla;
 
 ReactDOM.render(
-  <table>
+    <h1>Learning Destructuring</h1>
+  <table className="table">
     <tr>
-      <th>Brand</th>
+      <th>Model</th>
       <th>Top Speed</th>
+      <th>Popular Colour</th>
     </tr>
     <tr>
       <td>{tesla.model}</td>
