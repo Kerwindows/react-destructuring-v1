@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3dd054f54689daf49ece5d8f9b25e95e",
+    "revision": "0f319fd25ce08cb863a378b914d1c5e0",
     "url": "/react-destructuring-v1/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-destructuring-v1/static/js/2.d8630df9.chunk.js"
   },
   {
-    "revision": "595aa0d5212238805d8e",
-    "url": "/react-destructuring-v1/static/js/main.1934011d.chunk.js"
+    "revision": "111a22bdc07ada4a0ea8",
+    "url": "/react-destructuring-v1/static/js/main.f530cf78.chunk.js"
   },
   {
     "revision": "007d36e99bb5308c6247",

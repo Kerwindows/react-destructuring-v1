@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/react-destructuring-v1/static/js/main.1934011d.chunk.js",
-    "main.js.map": "/react-destructuring-v1/static/js/main.1934011d.chunk.js.map",
+    "main.js": "/react-destructuring-v1/static/js/main.f530cf78.chunk.js",
+    "main.js.map": "/react-destructuring-v1/static/js/main.f530cf78.chunk.js.map",
     "runtime-main.js": "/react-destructuring-v1/static/js/runtime-main.f53760ed.js",
     "runtime-main.js.map": "/react-destructuring-v1/static/js/runtime-main.f53760ed.js.map",
     "static/js/2.d8630df9.chunk.js": "/react-destructuring-v1/static/js/2.d8630df9.chunk.js",
     "static/js/2.d8630df9.chunk.js.map": "/react-destructuring-v1/static/js/2.d8630df9.chunk.js.map",
     "index.html": "/react-destructuring-v1/index.html",
-    "precache-manifest.3c7b0d5aa08ab4e9afd3bef2d7940093.js": "/react-destructuring-v1/precache-manifest.3c7b0d5aa08ab4e9afd3bef2d7940093.js",
+    "precache-manifest.404f92014e869df0d9f225fa7a000cf8.js": "/react-destructuring-v1/precache-manifest.404f92014e869df0d9f225fa7a000cf8.js",
     "service-worker.js": "/react-destructuring-v1/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.f53760ed.js",
     "static/js/2.d8630df9.chunk.js",
-    "static/js/main.1934011d.chunk.js"
+    "static/js/main.f530cf78.chunk.js"
   ]
 }
